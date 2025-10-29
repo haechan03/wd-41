@@ -9,3 +9,4 @@ Notes and usage details for wd-41.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
