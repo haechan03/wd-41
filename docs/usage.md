@@ -27,3 +27,4 @@ Notes and usage details for wd-41.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
